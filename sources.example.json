@@ -1,0 +1,7 @@
+{
+  "github": {
+    "repos": [],
+    "watch": ["commits", "pulls", "issues"]
+  },
+  "local_logs": []
+}
